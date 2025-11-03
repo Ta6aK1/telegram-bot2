@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiohttp import web
 
-TOKEN = "ВАШ_ТОКЕН_ОТ_BOTFATHER"
+TOKEN = "8392127432:AAHPSqCf3r-AUMmhLhf1WKf8YIp0HEU5JK0"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
